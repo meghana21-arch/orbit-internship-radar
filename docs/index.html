@@ -1,29 +1,42 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#17201d" />
-    <meta name="description" content="Orbit — discover and track 2027 software engineering internships." />
-    <title>Orbit — 2027 Internship Radar</title>
-    <style>
-      * { box-sizing: border-box; }
-      html, body, iframe { width: 100%; height: 100%; margin: 0; }
-      body { overflow: hidden; background: #fbfcfb; font-family: Arial, sans-serif; }
-      iframe { display: block; border: 0; background: #fbfcfb; }
-      .fallback { position: fixed; inset: 0; display: grid; place-items: center; padding: 24px; color: #17201d; }
-      .fallback a { color: #126c53; }
-    </style>
-  </head>
-  <body>
-    <div class="fallback">
-      <p>Opening Orbit… <a href="https://orbit-internship-radar.saikiranannam54.chatgpt.site">Open the application directly</a>.</p>
-    </div>
-    <iframe
-      src="https://orbit-internship-radar.saikiranannam54.chatgpt.site"
-      title="Orbit Internship Radar"
-      allow="clipboard-read; clipboard-write"
-      referrerpolicy="strict-origin-when-cross-origin"
-    ></iframe>
-  </body>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Track Summer and Fall 2027 software engineering internships.">
+  <title>Orbit Internship Radar</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="shell">
+    <aside>
+      <a class="brand" href="#dashboard"><span>O</span> Orbit</a>
+      <nav>
+        <button data-page="dashboard" class="active">⌂ <span>Dashboard</span></button>
+        <button data-page="opportunities">⌕ <span>Opportunities</span></button>
+        <button data-page="applications">▣ <span>Applications</span></button>
+        <button data-page="saved">♡ <span>Saved roles</span></button>
+        <button data-page="insights">◫ <span>Insights</span></button>
+        <button data-page="preferences">⚙ <span>Preferences</span></button>
+      </nav>
+      <div class="sync"><i></i><div><strong>Radar active</strong><small>Refreshes every 30 min</small></div></div>
+    </aside>
+    <main>
+      <header><div><small>SUMMER + FALL 2027</small><h1 id="title">Good morning, Meghana</h1></div><button class="primary" id="addBtn">＋ Add application</button></header>
+      <section id="content"></section>
+    </main>
+  </div>
+  <dialog id="applicationModal">
+    <form id="applicationForm">
+      <div class="modal-head"><div><small>APPLICATION TRACKER</small><h2>Add an application</h2></div><button type="button" class="icon" id="closeModal">×</button></div>
+      <label>Company<input name="company" required placeholder="Company name"></label>
+      <label>Role<input name="role" required placeholder="Software Engineering Intern"></label>
+      <div class="two"><label>Location<input name="location" placeholder="New York, NY"></label><label>Season<select name="season"><option>Summer 2027</option><option>Fall 2027</option></select></label></div>
+      <label>Status<select name="status"><option>Interested</option><option>Applied</option><option>Interview</option><option>Offer</option><option>Rejected</option></select></label>
+      <button class="primary wide" type="submit">Save application</button>
+    </form>
+  </dialog>
+  <div id="toast"></div>
+  <script src="./app.js"></script>
+</body>
 </html>
