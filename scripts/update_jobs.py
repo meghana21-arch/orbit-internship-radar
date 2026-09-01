@@ -57,7 +57,8 @@ def score(job):
     value = 72
     reasons = ["Matches a graduate-level software internship search"]
     title = job["title"].lower()
-    if job["area"] == "Machine learning" or any(k in title for k in ("master", "graduate", "advanced degree")):
+    advanced_degree = any(k in title for k in ("master", "graduate", "advanced degree", ", ms,", " ms intern"))
+    if job["area"] == "Machine learning" or advanced_degree:
         value += 10
         reasons.append("Strong fit for a master's candidate")
     if job["area"] in ("Backend", "Full stack", "Generic SDE"):
@@ -91,7 +92,7 @@ def simplify_jobs(markdown):
         if not company or not title or not direct:
             continue
         relevant = any(k in title.lower() for k in ("software", "developer", "frontend", "backend", "full stack", "full-stack", "machine learning", "artificial intelligence", "data scien", "data engineer", "nlp", "computer vision"))
-        undergraduate_only = any(k in title.lower() for k in ("undergraduate only", "undergraduate internship", " - undergraduate"))
+        undergraduate_only = any(k in title.lower() for k in ("undergraduate only", "undergraduate internship", " - undergraduate", ", bs,"))
         if relevant and not undergraduate_only:
             jobs.append({"company": company, "title": title, "location": location or "Location not listed", "season": "Summer 2027", "age": age, "url": direct, "source": "Simplify + Pitt CSC"})
     return jobs
@@ -104,6 +105,8 @@ def applyguy_jobs(payload):
         if season not in ("Summer 2027", "Fall 2027", "2027"):
             continue
         title = item.get("title", "")
+        if any(k in title.lower() for k in ("undergraduate only", "undergraduate internship", " - undergraduate", ", bs,")):
+            continue
         if item.get("category") != "Software Engineering" and not any(k in title.lower() for k in ("machine learning", "data scien", "artificial intelligence")):
             continue
         jobs.append({"company": item.get("company", "Unknown"), "title": title, "location": item.get("location", "Location not listed"), "season": "Fall 2027" if season == "Fall 2027" else "Summer 2027", "age": item.get("age", ""), "url": item.get("listingUrl") or item.get("url"), "source": "ApplyGuy"})
@@ -114,7 +117,8 @@ def main():
     candidates = simplify_jobs(fetch(SIMPLIFY)) + applyguy_jobs(fetch(APPLYGUY))
     unique = {}
     for job in candidates:
-        key = re.sub(r"\W+", "", (job["company"] + job["title"] + job["location"]).lower())
+        job_id = re.search(r"/results/(\d+)", job["url"])
+        key = f"google-{job_id.group(1)}" if job_id else re.sub(r"\W+", "", (job["company"] + job["title"] + job["location"]).lower())
         job["area"] = area(job["title"])
         job["keywords"] = keywords(job["title"])
         job["fitScore"], job["fitReasons"] = score(job)
