@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-02T00:06:16.717111+00:00",
+  "updatedAt": "2026-09-02T00:26:25.992826+00:00",
   "count": 500,
   "sourceCounts": {
-    "Simplify + Pitt CSC": 453,
-    "ApplyGuy": 12,
+    "Simplify + Pitt CSC": 457,
+    "ApplyGuy": 13,
     "SpeedyApply SWE": 73,
     "SpeedyApply AI/ML": 30,
     "Dreamwork": 94,
-    "FAANG APIs": 32
+    "FAANG APIs": 34
   },
   "jobs": [
     {
@@ -29,26 +29,6 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 2924297556
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL",
-      "location": "Sunrise, FL, United States",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 93,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 23378599
     },
     {
       "company": "Google",
@@ -155,27 +135,6 @@
       "id": 706583875
     },
     {
-      "company": "AbbVie",
-      "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
-      "location": "North Chicago, IL, United States",
-      "season": "2027 \u00b7 season unspecified",
-      "age": "12d",
-      "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918-2027-business-technology-solutions-intern-data-software-engineering-undergraduate-?oga=true",
-      "source": "Dreamwork direct-career index",
-      "area": "Generic SDE",
-      "keywords": [
-        "Data",
-        "Software engineering"
-      ],
-      "fitScore": 88,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 2484605146
-    },
-    {
       "company": "American Express",
       "title": "Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
       "location": "Charlotte, NC, United States",
@@ -234,46 +193,6 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 2924513
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC",
-      "location": "Charlotte, NC, United States",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 88,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3512598947
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
-      "location": "New York, NY, United States",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 88,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 502234800
     },
     {
       "company": "American Express",
@@ -459,28 +378,6 @@
         "Location is Florida or remote-friendly"
       ],
       "id": 4118058697
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
-      "location": "Sunrise, FL, United States",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
-      "source": "Dreamwork direct-career index",
-      "area": "Machine learning",
-      "keywords": [
-        "AI",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 87,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Location is Florida or remote-friendly"
-      ],
-      "id": 4157891782
     },
     {
       "company": "Booz Allen",
@@ -4556,26 +4453,6 @@
       "id": 416807547
     },
     {
-      "company": "\ud83d\udd25 Google",
-      "title": "Software Engineer Intern - Multiple Teams",
-      "location": "Palo Alto, CA, Cambridge, MA, Madison, WI, Seattle, WA, Houston, TX, SF, Austin, TX, LA, San Jose, CA, Irvine, CA, South SF, Redwood City, CA, Raleigh, NC, San Bruno, CA, Redmond, WA, Durham, NC, Santa Cruz, CA, Chicago, IL, Goleta, CA, Pittsburgh, PA, Kirkland, WA, Reston, VA, NYC, Bellevue, WA, Sunnyvale, CA, Mountain View, CA, Portland, OR, Boulder, CO, Atlanta, GA, San Diego, CA, Santa Barbara, CA",
-      "season": "Summer 2027",
-      "age": "1d",
-      "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382?utm_source=Simplify&ref=Simplify",
-      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 4224799449
-    },
-    {
       "company": "\ud83d\udd25 SpaceX",
       "title": "Software Engineering Intern/Co-op",
       "location": "Palo Alto, CA, Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, Hawthorne, CA",
@@ -4759,48 +4636,6 @@
         "Strong fit for a master's candidate"
       ],
       "id": 2862342213
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
-      "location": "Atlanta, GA, United States",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
-      "source": "Dreamwork direct-career index",
-      "area": "Machine learning",
-      "keywords": [
-        "AI",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 732146358
-    },
-    {
-      "company": "American Express",
-      "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
-      "location": "New York, NY, United States",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698",
-      "source": "Dreamwork direct-career index",
-      "area": "Machine learning",
-      "keywords": [
-        "AI",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 3152305608
     },
     {
       "company": "CNO Financial Group",
@@ -5141,7 +4976,7 @@
       "title": "Data Scientist Spring Co-Op 2027",
       "location": "CincinnatiOH",
       "season": "2027 \u00b7 season unspecified",
-      "age": "18d",
+      "age": "19d",
       "url": "https://omya.wd3.myworkdayjobs.com/Omya/job/CincinnatiOH/Data-Scientist-Spring-Co-Op-2027_JR018275",
       "source": "Dreamwork direct-career index",
       "area": "Machine learning",
@@ -5521,26 +5356,6 @@
     },
     {
       "company": "\ud83d\udd25 AMD",
-      "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence",
-      "location": "San Jose, CA, Santa Clara, CA",
-      "season": "Summer 2027",
-      "age": "11d",
-      "url": "https://careers.amd.com/jobs/90892?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Machine learning",
-      "keywords": [
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 3761415493
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
       "title": "Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence \ud83c\udf93",
       "location": "San Jose, CA, Santa Clara, CA",
       "season": "Summer 2027",
@@ -5558,26 +5373,6 @@
         "Strong fit for a master's candidate"
       ],
       "id": 1022490233
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Machine Learning Intern/Co-op - Multiple Teams",
-      "location": "Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA",
-      "season": "Summer 2027",
-      "age": "11d",
-      "url": "https://careers.amd.com/jobs/91170?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Machine learning",
-      "keywords": [
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 3878645673
     },
     {
       "company": "\ud83d\udd25 ByteDance",
@@ -9423,44 +9218,6 @@
       "id": 3522604281
     },
     {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Software Engineer Intern/Co-op",
-      "location": "Rochester, NY, Austin, TX, Longmont, CO, Fishkill, NY, Fort Collins, CO, Boxborough, MA",
-      "season": "Summer 2027",
-      "age": "11d",
-      "url": "https://careers.amd.com/jobs/90947?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 1276544827
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Software Engineer Intern/Co-op",
-      "location": "San Jose, CA, Santa Clara, CA",
-      "season": "Summer 2027",
-      "age": "11d",
-      "url": "https://careers.amd.com/jobs/90891?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3388870667
-    },
-    {
       "company": "\ud83d\udd25 ByteDance",
       "title": "GPU/AI Application System Software Engineer Intern - System Technologies and Engineering",
       "location": "San Jose, CA",
@@ -10114,6 +9871,242 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 1465364134
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Data Engineer Intern - Monetization Data",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "22d",
+      "url": "https://lifeattiktok.com/search/7671232204182276405?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply AI/ML",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 2472584718
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Data Science Intern - Advertisement Team \ud83c\udf93",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "19d",
+      "url": "https://lifeattiktok.com/search/7673226686054107445?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 2388012397
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Data Science Intern - Integrity and Safety",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "28d",
+      "url": "https://lifeattiktok.com/search/7669682935444900149?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply AI/ML",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 2967154076
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Data Science Intern - TikTok Live",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "28d",
+      "url": "https://lifeattiktok.com/search/7669700822370945333?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply AI/ML",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 3587101799
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Data Science Intern - TikTok Product",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "27d",
+      "url": "https://lifeattiktok.com/search/7669683639101884725?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply AI/ML",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 3028936999
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce",
+      "location": "Seattle, WA",
+      "season": "Summer 2027",
+      "age": "25d",
+      "url": "https://lifeattiktok.com/search/7670700387322300677?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Full stack",
+      "keywords": [
+        "Frontend",
+        "Backend"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 3951115507
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "25d",
+      "url": "https://lifeattiktok.com/search/7670738362521520437?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Full stack",
+      "keywords": [
+        "Frontend",
+        "Backend"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 1192202569
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Mobile Software Engineer Intern - Global E-Commerce",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "18d",
+      "url": "https://lifeattiktok.com/search/7673663349758675205?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Mobile",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 1452359310
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "28d",
+      "url": "https://lifeattiktok.com/search/7668921505254410549?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 979070463
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "29d",
+      "url": "https://lifeattiktok.com/search/7662700594251958581?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 979070463
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "29d",
+      "url": "https://lifeattiktok.com/search/7667935738376227077?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 979070463
+    },
+    {
+      "company": "\ud83d\udd25 TikTok",
+      "title": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "season": "Summer 2027",
+      "age": "29d",
+      "url": "https://lifeattiktok.com/search/7668581636242016565?utm_source=Simplify&ref=Simplify",
+      "source": "Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 979070463
     }
   ]
 }

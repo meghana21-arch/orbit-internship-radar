@@ -39,9 +39,13 @@ def clean_url(value):
 def eligible_title(title):
     lower = title.lower()
     wrong_term = any(k in lower for k in ("fall 2026", "summer 2026", "spring 2027", "winter 2027", "2026 start"))
-    wrong_degree = any(k in lower for k in ("undergraduate only", "undergraduate internship", " - undergraduate", ", bs,", "ph.d", "phd"))
+    wrong_degree = any(k in lower for k in ("ph.d", "phd"))
     relevant = any(k in lower for k in ("software", "developer", "frontend", "front-end", "backend", "full stack", "full-stack", "machine learning", "artificial intelligence", " ai ", "data scien", "data engineer", "nlp", "computer vision", "ml intern"))
     return relevant and not wrong_term and not wrong_degree
+
+
+def is_undergraduate_title(title):
+    return bool(re.search(r"\b(undergraduate|undergrad|bachelor(?:'s)?|bachelors|b\.s\.|bs)\b", title, flags=re.I))
 
 
 def season_for(title):
@@ -211,11 +215,14 @@ def main():
         faang_jobs(fetch(FAANG_TRACKER)),
     ]
     candidates = [job for feed in feeds for job in feed]
+    undergraduate_keys = {dedupe_key(job) for job in candidates if job.get("url", "").startswith("http") and is_undergraduate_title(job["title"])}
     unique = {}
     for job in candidates:
         if not job.get("url", "").startswith("http"):
             continue
         key = dedupe_key(job)
+        if key in undergraduate_keys:
+            continue
         job["area"] = area(job["title"])
         job["keywords"] = keywords(job["title"])
         job["fitScore"], job["fitReasons"] = score(job)
