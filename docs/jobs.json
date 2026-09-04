@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-04T19:32:33.933544+00:00",
+  "updatedAt": "2026-09-04T21:47:09.041815+00:00",
   "count": 500,
   "sourceCounts": {
-    "Simplify + Pitt CSC": 512,
+    "Simplify + Pitt CSC": 511,
     "ApplyGuy": 184,
     "SpeedyApply SWE": 74,
     "SpeedyApply AI/ML": 30,
     "Dreamwork": 94,
-    "FAANG APIs": 45
+    "FAANG APIs": 46
   },
   "jobs": [
     {
@@ -485,28 +485,6 @@
     },
     {
       "company": "Booz Allen",
-      "title": "Data Scientist Intern - 2027 Summer Games",
-      "location": "Honolulu, HI",
-      "season": "Summer 2027",
-      "age": "3d",
-      "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "Data",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 87,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Recently posted"
-      ],
-      "id": 3768258785
-    },
-    {
-      "company": "Booz Allen",
       "title": "Data Scientist Intern - Summer Games",
       "location": "Rome, NY",
       "season": "Summer 2027",
@@ -922,6 +900,28 @@
         "Recently posted"
       ],
       "id": 835791170
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Compute System Arch AI Infra Intern - 2027",
+      "location": "China, Shanghai",
+      "season": "2027 \u00b7 season unspecified",
+      "age": "0d",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
+      "source": "FAANG direct-career APIs",
+      "area": "Machine learning",
+      "keywords": [
+        "AI",
+        "Python",
+        "ML"
+      ],
+      "fitScore": 87,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Strong fit for a master's candidate",
+        "Recently posted"
+      ],
+      "id": 4228580342
     },
     {
       "company": "NVIDIA",
@@ -6622,7 +6622,7 @@
       "title": "Applications Intern - AI and Machine Learning",
       "location": "Roanoke, VA",
       "season": "Summer 2027",
-      "age": "22d",
+      "age": "23d",
       "url": "https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -9145,7 +9145,7 @@
       "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
       "location": "Bellevue",
       "season": "Summer 2027",
-      "age": "13d",
+      "age": "14d",
       "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -9183,7 +9183,7 @@
       "title": "Software Engineer Intern",
       "location": "Olathe, KS",
       "season": "Summer 2027",
-      "age": "10d",
+      "age": "11d",
       "url": "https://careers.garmin.com/jobs/19693?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -9278,7 +9278,7 @@
       "title": "Software Engineering Intern (Summer 2027)",
       "location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
       "season": "Summer 2027",
-      "age": "15d",
+      "age": "16d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -9625,7 +9625,7 @@
       "title": "Software Engineer Intern - Product Development - Summer 2027",
       "location": "Cranberry Township, PA",
       "season": "Summer 2027",
-      "age": "10d",
+      "age": "11d",
       "url": "https://careers.msasafety.com/jobs/9993?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
