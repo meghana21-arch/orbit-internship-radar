@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-04T00:01:51.259656+00:00",
+  "updatedAt": "2026-09-04T04:23:56.243961+00:00",
   "count": 500,
   "sourceCounts": {
-    "Simplify + Pitt CSC": 495,
-    "ApplyGuy": 170,
+    "Simplify + Pitt CSC": 516,
+    "ApplyGuy": 180,
     "SpeedyApply SWE": 73,
     "SpeedyApply AI/ML": 30,
     "Dreamwork": 94,
@@ -336,6 +336,27 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 2856345334
+    },
+    {
+      "company": "Motorola",
+      "title": "Android Platform Software Engineer Intern - Summer 2027",
+      "location": "Schaumburg, IL, Plantation, FL",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Backend",
+      "keywords": [
+        "APIs",
+        "Systems"
+      ],
+      "fitScore": 88,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Location is Florida or remote-friendly"
+      ],
+      "id": 1958221474
     },
     {
       "company": "RTX",
@@ -949,7 +970,7 @@
       "title": "Artificial Intelligence Engineer Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4966/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -970,7 +991,7 @@
       "title": "Artificial Intelligence Specialist Intern - Operations",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/5029/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -985,6 +1006,27 @@
         "Recently posted"
       ],
       "id": 1608186689
+    },
+    {
+      "company": "Skydio",
+      "title": "Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027",
+      "location": "San Mateo, CA",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Machine learning",
+      "keywords": [
+        "Python",
+        "ML"
+      ],
+      "fitScore": 87,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Strong fit for a master's candidate",
+        "Recently posted"
+      ],
+      "id": 720954816
     },
     {
       "company": "Touchstone Investments",
@@ -1049,6 +1091,28 @@
         "Recently posted"
       ],
       "id": 2649385245
+    },
+    {
+      "company": "Walmart",
+      "title": "Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT",
+      "location": "Sunnyvale, CA",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Machine learning",
+      "keywords": [
+        "Data",
+        "Python",
+        "ML"
+      ],
+      "fitScore": 87,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Strong fit for a master's candidate",
+        "Recently posted"
+      ],
+      "id": 1970905904
     },
     {
       "company": "\ud83d\udd25 AMD",
@@ -1246,26 +1310,6 @@
         "Recently posted"
       ],
       "id": 829598835
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Software Engineer",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "age": "1d",
-      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-      "source": "ApplyGuy + FAANG direct-career APIs",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 794344121
     },
     {
       "company": "Aerotech",
@@ -1518,6 +1562,26 @@
     },
     {
       "company": "Apex",
+      "title": "Ground Software Intern - Spring or Summer 2027",
+      "location": "LA",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 2919786755
+    },
+    {
+      "company": "Apex",
       "title": "Software Engineer Intern - Embedded Systems",
       "location": "LA",
       "season": "Summer 2027",
@@ -1535,6 +1599,26 @@
         "Recently posted"
       ],
       "id": 1719302023
+    },
+    {
+      "company": "Apex Technology, Inc.",
+      "title": "Software Engineering Internship - Test & Automation (Spring or Summer 2027)",
+      "location": "Los Angeles, CA",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344",
+      "source": "ApplyGuy",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 1810520720
     },
     {
       "company": "Auto-Owners Insurance",
@@ -1555,26 +1639,6 @@
         "Recently posted"
       ],
       "id": 3780641314
-    },
-    {
-      "company": "Auto-Owners Insurance",
-      "title": "Software Developer Intern - Summer 2027",
-      "location": "Lansing, MI",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify",
-      "source": "ApplyGuy + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 793690019
     },
     {
       "company": "BNY",
@@ -2267,6 +2331,47 @@
       "id": 678769342
     },
     {
+      "company": "DriveTime",
+      "title": "Data Science Intern - Summer 2027",
+      "location": "Dallas, TX, Tempe, AZ",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 1102289273
+    },
+    {
+      "company": "DriveTime",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Tempe, AZ",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 888691270
+    },
+    {
       "company": "Edison International",
       "title": "Data Analytics Intern - Data Science - Applied Math",
       "location": "Pomona, CA, Rosemead, CA",
@@ -2476,6 +2581,94 @@
       "id": 1165125067
     },
     {
+      "company": "GE Vernova",
+      "title": "Software Engineer Co-op - Critical Infrastructure Communication",
+      "location": "Rochester, NY",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Backend",
+      "keywords": [
+        "Infrastructure",
+        "APIs",
+        "Systems"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 1068239509
+    },
+    {
+      "company": "GE Vernova",
+      "title": "Software Engineer Co-op - Critical Infrastructure Communication",
+      "location": "Rochester, NY",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Backend",
+      "keywords": [
+        "Infrastructure",
+        "APIs",
+        "Systems"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 1068239509
+    },
+    {
+      "company": "GE Vernova",
+      "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
+      "location": "Rochester, NY",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Backend",
+      "keywords": [
+        "Infrastructure",
+        "APIs",
+        "Systems"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3754832446
+    },
+    {
+      "company": "GE Vernova",
+      "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
+      "location": "Rochester, NY",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/GE-Vernova-Software-Engineering---Co-op--Summer---Fall_R5051794-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Backend",
+      "keywords": [
+        "Infrastructure",
+        "APIs",
+        "Systems"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3754832446
+    },
+    {
       "company": "Garmin",
       "title": "Software Engineer Intern",
       "location": "Chandler, AZ",
@@ -2500,7 +2693,7 @@
       "title": "Embedded Software Engineer Intern",
       "location": "LA",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008?utm_source=Simplify&ref=Simplify",
       "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -2520,7 +2713,7 @@
       "title": "Hardware Developer Intern",
       "location": "Oakville, ON, Canada",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -2534,26 +2727,6 @@
         "Recently posted"
       ],
       "id": 2007092081
-    },
-    {
-      "company": "Gevernova",
-      "title": "GE Vernova Software Engineering - Co-op - Spring-Summer 2027",
-      "location": "Rochester, NY",
-      "season": "Summer 2027",
-      "age": "1d",
-      "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rochester/GE-Vernova-Software-Engineering---Co-op---Spring-Summer-2027_R5051780-1",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 1738660137
     },
     {
       "company": "HP IQ",
@@ -2765,7 +2938,7 @@
       "title": "Software Engineer Intern - Command & Control",
       "location": "Atlanta, GA",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796/apply?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -2859,6 +3032,26 @@
         "Recently posted"
       ],
       "id": 2724176683
+    },
+    {
+      "company": "Innovative Systems",
+      "title": "Software Engineer Intern/Co-op",
+      "location": "Pittsburgh, PA",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "http://innovativesystems.applytojob.com/apply/nPMqeNSQOo/InternCoop-Summer-2027-Software-Engineering?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 1363427873
     },
     {
       "company": "JP Morgan Chase",
@@ -3390,7 +3583,7 @@
       "title": "Data Engineer Intern",
       "location": "Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/nisc/jobs/8167858?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3411,7 +3604,7 @@
       "title": "Data Engineer Intern",
       "location": "Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/testnisc/jobs/8167883?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3432,7 +3625,7 @@
       "title": "Data Engineer Intern",
       "location": "Lake St Louis, MO",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/testnisc/jobs/8167884?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3453,7 +3646,7 @@
       "title": "Data Engineer Intern",
       "location": "Mandan, ND",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/testnisc/jobs/8167886?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3474,7 +3667,7 @@
       "title": "Software Development Intern",
       "location": "Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/nisc/jobs/8092699?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3494,7 +3687,7 @@
       "title": "Software Development Intern",
       "location": "Mandan, ND",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174096?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3514,7 +3707,7 @@
       "title": "Software Development Intern",
       "location": "Lake St Louis, MO",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174090?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3534,7 +3727,7 @@
       "title": "Software Development Intern",
       "location": "Lake St Louis, MO, Mandan, ND, Cedar Rapids, IA",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://job-boards.greenhouse.io/testnisc/jobs/8174088?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -3775,7 +3968,7 @@
       "title": "Embedded Software Engineer Intern",
       "location": "LA, Torrance, CA",
       "season": "Summer 2027",
-      "age": "5d",
+      "age": "6d",
       "url": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -3795,7 +3988,7 @@
       "title": "Software Engineer Intern - Multiple Teams",
       "location": "LA, Torrance, CA",
       "season": "Summer 2027",
-      "age": "5d",
+      "age": "6d",
       "url": "https://jobs.ashbyhq.com/NorthwoodSpace/ce3d4b73-461e-4128-a6f1-f933897e8119/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -3916,7 +4109,7 @@
       "title": "Robotics Software Intern - Manipulation",
       "location": "Houston, TX",
       "season": "Summer 2027",
-      "age": "5d",
+      "age": "6d",
       "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc/application?embed=true&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4342,13 +4535,13 @@
       "id": 2443497532
     },
     {
-      "company": "Saabusa",
-      "title": "Software Engineering Co-Op (Summer 2027)",
-      "location": "East Syracuse, NY (Collamer)",
+      "company": "Saab",
+      "title": "Software Engineer Co-op",
+      "location": "East Syracuse, NY",
       "season": "Summer 2027",
       "age": "1d",
-      "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
-      "source": "ApplyGuy",
+      "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
       "keywords": [
         "Software engineering"
@@ -4359,7 +4552,7 @@
         "Three years of engineering experience can differentiate you",
         "Recently posted"
       ],
-      "id": 141626203
+      "id": 2417713751
     },
     {
       "company": "Salesforce",
@@ -4386,7 +4579,7 @@
       "title": "Application Software Development Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/5020/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4406,7 +4599,7 @@
       "title": "Application Software Engineer Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4955/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4426,7 +4619,7 @@
       "title": "Automated Test Software Engineering Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4964/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4446,7 +4639,7 @@
       "title": "Cloud Software Engineer Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4976/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4467,7 +4660,7 @@
       "title": "Data Engineer Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4488,7 +4681,7 @@
       "title": "Embedded Software Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4508,7 +4701,7 @@
       "title": "Quality Data Engineering Intern",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4995/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4529,7 +4722,7 @@
       "title": "Software Engineer Intern \ud83c\udf93",
       "location": "Niles, IL",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4563,6 +4756,146 @@
         "Recently posted"
       ],
       "id": 2561769021
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern",
+      "location": "Sparks, NV",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 366963549
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern",
+      "location": "Southern Pines, NC",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3775020855
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern",
+      "location": "Folsom, CA",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3590000480
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Plano, TX",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 1663759571
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Dayton, OH",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3031256062
+    },
+    {
+      "company": "Sierra Nevada Corporation",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Lone Tree, CO",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3759481560
+    },
+    {
+      "company": "Skyward",
+      "title": "Software Engineer Intern",
+      "location": "Stevens Point, WI",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://jobs.smartrecruiters.com/Skyward1/744000147320799?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3594114403
     },
     {
       "company": "Stanley Black & Decker",
@@ -4771,7 +5104,7 @@
       "title": "Software Engineer Intern",
       "location": "Augusta, GA",
       "season": "Summer 2027",
-      "age": "1d",
+      "age": "2d",
       "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299&utm_source=Simplify&ref=Simplify",
       "source": "Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -4788,12 +5121,12 @@
     },
     {
       "company": "The Exploration Company",
-      "title": "Summer 2027 Internship (Software)",
-      "location": "California",
+      "title": "Engineering Intern - Software",
+      "location": "LA",
       "season": "Summer 2027",
-      "age": "1d",
-      "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac",
-      "source": "ApplyGuy",
+      "age": "0d",
+      "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
       "keywords": [
         "Software engineering"
@@ -4804,7 +5137,7 @@
         "Three years of engineering experience can differentiate you",
         "Recently posted"
       ],
-      "id": 346628051
+      "id": 2554183713
     },
     {
       "company": "The Home Depot",
@@ -5251,11 +5584,52 @@
       "id": 452161498
     },
     {
+      "company": "\ud83d\udd25 Adobe",
+      "title": "Software Engineer Intern",
+      "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT",
+      "season": "Summer 2027",
+      "age": "1d",
+      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + FAANG direct-career APIs + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 2300767907
+    },
+    {
+      "company": "\ud83d\udd25 Amazon",
+      "title": "Software Development Engineer Intern - Robotics",
+      "location": "Seattle, WA, Nashville, TN, Austin, TX, North Reading, MA, Arlington County, Arlington, VA, Bellevue, WA, Westborough, MA",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Robotics",
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 133622303
+    },
+    {
       "company": "\ud83d\udd25 Atlassian",
       "title": "Software Engineer Intern",
       "location": "Burnaby, BC, Canada, Vancouver, BC, Canada, Richmond, BC, Canada",
       "season": "Summer 2027",
-      "age": "0d",
+      "age": "1d",
       "url": "https://campus-globalcareers-atlassian.icims.com/jobs/26275/software-engineer-intern%2c-2027-canada/job?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -5370,6 +5744,26 @@
         "Location is Florida or remote-friendly"
       ],
       "id": 2586658240
+    },
+    {
+      "company": "\ud83d\udd25 Tesla",
+      "title": "Embedded Software Engineer Intern - Optimus",
+      "location": "Palo Alto, CA",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://www.tesla.com/careers/search/job/282340?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 646668330
     },
     {
       "company": "\ud83d\udd25 Tesla",
@@ -5938,7 +6332,7 @@
       "title": "Data Scientist Spring Co-Op 2027",
       "location": "CincinnatiOH",
       "season": "2027 \u00b7 season unspecified",
-      "age": "20d",
+      "age": "21d",
       "url": "https://omya.wd3.myworkdayjobs.com/Omya/job/CincinnatiOH/Data-Scientist-Spring-Co-Op-2027_JR018275",
       "source": "Dreamwork direct-career index",
       "area": "Machine learning",
@@ -6289,27 +6683,6 @@
     },
     {
       "company": "\ud83d\udd25 ByteDance",
-      "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "age": "28d",
-      "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "ML",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 1639772503
-    },
-    {
-      "company": "\ud83d\udd25 ByteDance",
       "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
       "location": "Seattle, WA",
       "season": "Summer 2027",
@@ -6354,51 +6727,10 @@
     },
     {
       "company": "\ud83d\udd25 ByteDance",
-      "title": "Machine Learning Engineer Intern",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "age": "24d",
-      "url": "https://jobs.bytedance.com/en/position/7671291260529821957/detail?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 2360849670
-    },
-    {
-      "company": "\ud83d\udd25 ByteDance",
-      "title": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
-      "location": "Seattle, WA",
-      "season": "Summer 2027",
-      "age": "23d",
-      "url": "https://jobs.bytedance.com/en/position/7672382828525832501/detail?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "ML",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 3196970591
-    },
-    {
-      "company": "\ud83d\udd25 ByteDance",
       "title": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93",
       "location": "Seattle, WA",
       "season": "Summer 2027",
-      "age": "27d",
+      "age": "28d",
       "url": "https://jobs.bytedance.com/en/position/7670855041951795509/detail?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -6913,7 +7245,7 @@
       "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search \ud83c\udf93",
       "location": "Seattle, WA",
       "season": "Summer 2027",
-      "age": "29d",
+      "age": "30d",
       "url": "https://lifeattiktok.com/search/7668415591670417717?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -7278,7 +7610,7 @@
       "title": "Business Technology Solutions Intern - Data & Software Engineering",
       "location": "Irvine, CA",
       "season": "Summer 2027",
-      "age": "8d",
+      "age": "9d",
       "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -7428,6 +7760,26 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 2810486346
+    },
+    {
+      "company": "Amazon",
+      "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+      "location": "US, MA, North Reading",
+      "season": "Summer 2027",
+      "age": "Today",
+      "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+      "source": "ApplyGuy",
+      "area": "Generic SDE",
+      "keywords": [
+        "Robotics",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 104806017
     },
     {
       "company": "American Express",
@@ -7581,6 +7933,25 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 3792245555
+    },
+    {
+      "company": "Auto-Owners Insurance",
+      "title": "Software Developer Intern - Summer 2027",
+      "location": "Lansing, MI",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 793690019
     },
     {
       "company": "Axon",
@@ -8187,7 +8558,7 @@
       "title": "Software Engineer Intern",
       "location": "NYC",
       "season": "Summer 2027",
-      "age": "23d",
+      "age": "24d",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005?utm_source=Simplify&ref=Simplify",
       "source": "ApplyGuy + Dreamwork direct-career index + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -8206,7 +8577,7 @@
       "title": "Software Engineer Intern - DV Commodities",
       "location": "London, UK",
       "season": "Summer 2027",
-      "age": "23d",
+      "age": "24d",
       "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -8668,7 +9039,7 @@
       "title": "Software Engineering Intern",
       "location": "LA",
       "season": "Summer 2027",
-      "age": "14d",
+      "age": "15d",
       "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008?utm_source=Simplify&ref=Simplify",
       "source": "ApplyGuy + Dreamwork direct-career index + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -8855,6 +9226,25 @@
       "id": 1380722362
     },
     {
+      "company": "Hilton Worldwide",
+      "title": "Corporate Summer Internship - Technology, Software Engineering and Cyber",
+      "location": "Dallas, TX, McLean, VA, Memphis, TN",
+      "season": "Summer 2027",
+      "age": "17d",
+      "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 3312950151
+    },
+    {
       "company": "Honeywell",
       "title": "Information Systems Intern - IT - Cyber Engineer & Data Science",
       "location": "United States",
@@ -8879,7 +9269,7 @@
       "title": "Software Engineer Intern - Computer Science",
       "location": "United States",
       "season": "Summer 2027",
-      "age": "8d",
+      "age": "9d",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155557?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -8898,7 +9288,7 @@
       "title": "Software Engineer Intern - Computer Science",
       "location": "United States",
       "season": "Summer 2027",
-      "age": "8d",
+      "age": "9d",
       "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155558?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -9736,367 +10126,6 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 1935457568
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "location": "Tucson, AZ",
-      "season": "Summer 2027",
-      "age": "14d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-Intern--Summer-2027-_01867664",
-      "source": "ApplyGuy + Dreamwork direct-career index",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3556345510
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Huntsville, AL",
-      "season": "Summer 2027",
-      "age": "8d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007?utm_source=Simplify&ref=Simplify",
-      "source": "ApplyGuy + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 4011104588
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Co-op (Summer/Fall 2027) (Onsite)",
-      "location": "Cedar Rapids, IA",
-      "season": "Fall 2027",
-      "age": "10d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027---Onsite-_01869518",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3508699027
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern",
-      "location": "Cambridge, MA",
-      "season": "Summer 2027",
-      "age": "17d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/XMLNAME-2027-Software-Engineering-Intern--Onsite-_01864698?utm_source=Simplify&ref=Simplify",
-      "source": "ApplyGuy + Dreamwork direct-career index + Pitt CSC + Simplify",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 1758768314
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (2027)",
-      "location": "Burnsville, MN",
-      "season": "Summer 2027",
-      "age": "24d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-WEST--14300-Judicial-Rd--WEST-BLDG/Software-Engineering-Intern--2027-_01865474",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 1607797214
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "State College, PA",
-      "season": "Summer 2027",
-      "age": "8d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3251436189
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Richardson, TX",
-      "season": "Summer 2027",
-      "age": "8d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01868869",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3632272740
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Tucson, AZ",
-      "season": "Summer 2027",
-      "age": "9d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Software-Engineering-Intern--Summer-2027-_01869473",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 2144949006
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Anaheim, CA",
-      "season": "Summer 2027",
-      "age": "10d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01867697",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 341240263
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Sterling, VA",
-      "season": "Summer 2027",
-      "age": "16d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01864691",
-      "source": "ApplyGuy + Dreamwork direct-career index",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 1408026203
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Marlborough, MA",
-      "season": "Summer 2027",
-      "age": "17d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-MARLBOROUGH-MA3--1001-Boston-Post-Rd--BLDG-3/Software-Engineering-Intern--Summer-2027-_01867814",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3592416883
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Westford, MA",
-      "season": "Summer 2027",
-      "age": "17d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MA-WESTFORD-WFD7--7-Technology-Park-Dr--BLDG-7/Software-Engineering-Intern--Summer-2027-_01867678",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 1041411951
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Indianapolis, IN",
-      "season": "Summer 2027",
-      "age": "18d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 626047425
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Fullerton, CA",
-      "season": "Summer 2027",
-      "age": "20d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineering-Intern--Summer-2027-_01867439",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 776545850
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "West Valley City, UT",
-      "season": "Summer 2027",
-      "age": "20d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01865952",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 4113980031
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "El Segundo, CA",
-      "season": "Summer 2027",
-      "age": "20d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/Software-Engineering-Intern--Summer-2027-_01866619",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 118171686
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "Burnsville, MN",
-      "season": "Summer 2027",
-      "age": "20d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-MN-BURNSVILLE-NORTH--2900-County-Rd-42-W--NORTH-BLDG/Software-Engineering-Intern--Summer-2027-_01866681",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 1794514810
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "East Hartford, CT",
-      "season": "Summer 2027",
-      "age": "20d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Software-Engineering-Intern--Summer-2027-_01865808",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 2422507206
-    },
-    {
-      "company": "RTX",
-      "title": "Software Engineering Intern (Summer 2027)",
-      "location": "San Jose, CA",
-      "season": "Summer 2027",
-      "age": "21d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 3099447178
     }
   ]
 }
