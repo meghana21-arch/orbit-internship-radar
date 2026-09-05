@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-09-05T19:29:58.368541+00:00",
+  "updatedAt": "2026-09-05T21:40:52.499965+00:00",
   "count": 500,
   "sourceCounts": {
     "Simplify + Pitt CSC": 532,
-    "ApplyGuy": 189,
+    "ApplyGuy": 188,
     "SpeedyApply SWE": 77,
     "SpeedyApply AI/ML": 31,
     "Dreamwork": 94,
@@ -488,7 +488,7 @@
       "title": "Data Scientist Intern - Summer 2027 \ud83c\udf93",
       "location": "Redwood City, CA",
       "season": "Summer 2027",
-      "age": "4d",
+      "age": "5d",
       "url": "https://c3.ai/job-description/8738918002?gh_jid=8738918002&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -1965,7 +1965,7 @@
       "title": "Software Engineer Intern",
       "location": "Redwood City, CA",
       "season": "Summer 2027",
-      "age": "4d",
+      "age": "5d",
       "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002&utm_source=Simplify&ref=Simplify",
       "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -4347,7 +4347,7 @@
       "title": "Data Engineer Intern",
       "location": "Lakeville, MN",
       "season": "Summer 2027",
-      "age": "3d",
+      "age": "4d",
       "url": "https://jobs.postholdings.com/jobs/31960?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4368,7 +4368,7 @@
       "title": "Data Science Intern - Summer 2027",
       "location": "Lakeville, MN",
       "season": "Summer 2027",
-      "age": "3d",
+      "age": "4d",
       "url": "https://jobs.postholdings.com/jobs/31961?icims=1&utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -4614,7 +4614,7 @@
       "title": "Calibration Process Data Science Intern - 8 months/40 hours per week",
       "location": "Farmington Hills, MI",
       "season": "Summer 2027",
-      "age": "4d",
+      "age": "5d",
       "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146524429?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Generic SDE",
@@ -8279,25 +8279,6 @@
       "id": 1550270300
     },
     {
-      "company": "Atoms",
-      "title": "Software Engineer Intern - Summer 2027",
-      "location": "Los Angeles, CA",
-      "season": "Summer 2027",
-      "age": "30d",
-      "url": "https://job-boards.greenhouse.io/atoms/jobs/8687896002",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 78,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you"
-      ],
-      "id": 519201878
-    },
-    {
       "company": "Auto-Owners Insurance",
       "title": "Data Engineering Intern - Summer 2027",
       "location": "Lansing, MI",
@@ -9442,7 +9423,7 @@
       "title": "GE Vernova - Energy Optimization Software Engineer Intern - Summer 2027",
       "location": "Bellevue",
       "season": "Summer 2027",
-      "age": "14d",
+      "age": "15d",
       "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -9575,7 +9556,7 @@
       "title": "Software Engineering Intern (Summer 2027)",
       "location": "US-CO-AURORA-S75 ~ 16800 E Centretech Pkwy ~ BLDG S75",
       "season": "Summer 2027",
-      "age": "16d",
+      "age": "17d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01867892",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -10147,6 +10128,25 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 2625457445
+    },
+    {
+      "company": "NVIDIA",
+      "title": "NVIDIA 2027 Internships: Systems Software Engineering",
+      "location": "Santa Clara, CA",
+      "season": "2027 \u00b7 season unspecified",
+      "age": "17d",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+      "source": "Dreamwork direct-career index + FAANG direct-career APIs + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 1813952075
     }
   ]
 }
