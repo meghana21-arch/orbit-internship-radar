@@ -1,8 +1,6 @@
 name: Refresh internship radar
 
 on:
-  schedule:
-    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,6 +8,7 @@ permissions:
 
 jobs:
   refresh:
+    if: ${{ false }} # Paused by request; remove this guard when refreshing resumes.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
