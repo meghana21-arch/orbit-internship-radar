@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-09T06:39:01.100786+00:00",
+  "updatedAt": "2026-09-09T12:18:27.246917+00:00",
   "count": 500,
   "sourceCounts": {
-    "Simplify + Pitt CSC": 580,
-    "ApplyGuy": 202,
+    "Simplify + Pitt CSC": 579,
+    "ApplyGuy": 205,
     "SpeedyApply SWE": 77,
     "SpeedyApply AI/ML": 31,
     "Dreamwork": 94,
-    "FAANG APIs": 47
+    "FAANG APIs": 48
   },
   "jobs": [
     {
@@ -55,7 +55,7 @@
       "title": "2027 Masters Software Engineer Intern/Co-op",
       "location": "Austin, Texas, United States",
       "season": "2027 \u00b7 season unspecified",
-      "age": "18d",
+      "age": "19d",
       "url": "https://careers.amd.com/jobs/91180?lang=en-us",
       "source": "Dreamwork direct-career index + Pitt CSC + Simplify",
       "area": "Generic SDE",
@@ -685,7 +685,7 @@
       "title": "Compute System Arch AI Infra Intern - 2027",
       "location": "China, Shanghai",
       "season": "2027 \u00b7 season unspecified",
-      "age": "3d",
+      "age": "4d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-AI-Infra-Intern---2027_JR2023889",
       "source": "FAANG direct-career APIs",
       "area": "Machine learning",
@@ -701,28 +701,6 @@
         "Recently posted"
       ],
       "id": 4228580342
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
-      "location": "Taiwan, Taipei",
-      "season": "2027 \u00b7 season unspecified",
-      "age": "7d",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
-      "source": "FAANG direct-career APIs",
-      "area": "Machine learning",
-      "keywords": [
-        "AI",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 87,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Recently posted"
-      ],
-      "id": 242322399
     },
     {
       "company": "NXP Semiconductors",
@@ -981,48 +959,6 @@
         "Recently posted"
       ],
       "id": 1832199517
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "Python",
-        "ML"
-      ],
-      "fitScore": 87,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Recently posted"
-      ],
-      "id": 1923815567
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "Python",
-        "ML"
-      ],
-      "fitScore": 87,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate",
-        "Recently posted"
-      ],
-      "id": 1923815567
     },
     {
       "company": "AeroVironment",
@@ -2059,69 +1995,6 @@
       "id": 496086315
     },
     {
-      "company": "Edison International",
-      "title": "Data Analytics Intern - Data Science - Applied Math",
-      "location": "Pomona, CA, Rosemead, CA",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Data",
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 4198796820
-    },
-    {
-      "company": "Edison International",
-      "title": "Data Analytics Intern - Data Science/Applied Math",
-      "location": "Pomona, CA, Rosemead, CA",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Data",
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 2941129601
-    },
-    {
-      "company": "Edison International",
-      "title": "Software/Data Engineering Intern",
-      "location": "Chino, CA",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Data",
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 887682938
-    },
-    {
       "company": "Eulerity",
       "title": "Backend Developer Intern",
       "location": "NYC",
@@ -2674,6 +2547,26 @@
       "id": 1608220813
     },
     {
+      "company": "K2 Space",
+      "title": "Simulation Software Engineering Intern",
+      "location": "LA",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 2153236239
+    },
+    {
       "company": "Keysight Technologies",
       "title": "Full Stack Intern",
       "location": "Colorado Springs, CO",
@@ -2693,26 +2586,6 @@
         "Recently posted"
       ],
       "id": 2155933225
-    },
-    {
-      "company": "Maven Securities",
-      "title": "Software Developer Intern",
-      "location": "London, UK",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 2840576751
     },
     {
       "company": "McKesson",
@@ -2963,7 +2836,7 @@
       "title": "AI Developer Technology Engineering Intern - 2027",
       "location": "3 Locations",
       "season": "2027 \u00b7 season unspecified",
-      "age": "4d",
+      "age": "5d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818",
       "source": "FAANG direct-career APIs",
       "area": "Generic SDE",
@@ -2978,6 +2851,26 @@
         "Recently posted"
       ],
       "id": 41654322
+    },
+    {
+      "company": "NVIDIA",
+      "title": "System Software Intern, Video Chips - Summer 2027",
+      "location": "China, Shanghai",
+      "season": "Summer 2027",
+      "age": "0d",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179",
+      "source": "FAANG direct-career APIs",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 83,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you",
+        "Recently posted"
+      ],
+      "id": 3295179418
     },
     {
       "company": "NXP Semiconductors",
@@ -3635,7 +3528,7 @@
       "season": "Summer 2027",
       "age": "1d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-Co-op--Summer-Fall-2027----Onsite_01871347?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
       "keywords": [
         "Software engineering"
@@ -3655,7 +3548,7 @@
       "season": "Summer 2027",
       "age": "1d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
       "keywords": [
         "Software engineering"
@@ -3690,32 +3583,12 @@
     },
     {
       "company": "RTX",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "location": "Largo, FL",
-      "season": "Summer 2027",
-      "age": "30d",
-      "url": "https://globalhr.wd5.myworkdayjobs.com/private_posting_no_tmp/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineer-Intern--Summer-2027-_01864811-1",
-      "source": "ApplyGuy",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Location is Florida or remote-friendly"
-      ],
-      "id": 301297291
-    },
-    {
-      "company": "RTX",
       "title": "Software Engineer Intern - Summer 2027",
       "location": "Richardson, TX",
       "season": "Summer 2027",
       "age": "1d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
       "keywords": [
         "Software engineering"
@@ -3735,7 +3608,7 @@
       "season": "Summer 2027",
       "age": "1d",
       "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
+      "source": "ApplyGuy + Pitt CSC + Simplify",
       "area": "Generic SDE",
       "keywords": [
         "Software engineering"
@@ -5105,106 +4978,6 @@
       "id": 1346057105
     },
     {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Graphics Software Engineer Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 746756364
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Graphics Software Engineer Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 746756364
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Software Engineer Intern/Co-op",
-      "location": "Calgary, AB, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/91366?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 3825065077
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Software Engineer Intern/Co-op",
-      "location": "Vancouver, BC, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 802060268
-    },
-    {
-      "company": "\ud83d\udd25 AMD",
-      "title": "Software Engineer Intern/Co-op",
-      "location": "Markham, ON, Canada",
-      "season": "Summer 2027",
-      "age": "7d",
-      "url": "https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Generic SDE",
-      "keywords": [
-        "Software engineering"
-      ],
-      "fitScore": 83,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Three years of engineering experience can differentiate you",
-        "Recently posted"
-      ],
-      "id": 452161498
-    },
-    {
       "company": "\ud83d\udd25 Adobe",
       "title": "Software Engineer Intern",
       "location": "Seattle, WA, SF, Austin, TX, San Jose, CA, Waltham, MA, NYC, Lehi, UT",
@@ -5782,27 +5555,6 @@
       "id": 3596925918
     },
     {
-      "company": "CNO Financial Group",
-      "title": "Artificial Intelligence Information Technology Intern - AI",
-      "location": "Carmel, IN",
-      "season": "Summer 2027",
-      "age": "1mo",
-      "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "AI",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 2700501937
-    },
-    {
       "company": "Cigna Group",
       "title": "Legal Operations Financial Data & AI Analytics Intern",
       "location": "St. Louis, MO",
@@ -6141,27 +5893,6 @@
     },
     {
       "company": "Mastercard",
-      "title": "Data Scientist Intern",
-      "location": "O'Fallon, MO",
-      "season": "Summer 2027",
-      "age": "9d",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Scientist-Intern--Summer-2027---St-Louis--MO--US_R-284879?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify + Pitt CSC",
-      "area": "Machine learning",
-      "keywords": [
-        "Data",
-        "Python",
-        "ML"
-      ],
-      "fitScore": 82,
-      "fitReasons": [
-        "Matches a graduate-level software internship search",
-        "Strong fit for a master's candidate"
-      ],
-      "id": 460245353
-    },
-    {
-      "company": "Mastercard",
       "title": "Data Scientist Intern - Summer 2027",
       "location": "O'Fallon, MO",
       "season": "Summer 2027",
@@ -6206,7 +5937,7 @@
       "title": "AI Developer Technology Engineer Intern, AI - 2027",
       "location": "2 Locations",
       "season": "2027 \u00b7 season unspecified",
-      "age": "8d",
+      "age": "9d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/AI-Developer-Technology-Engineer-Intern--AI---2027_JR2024002",
       "source": "FAANG direct-career APIs",
       "area": "Machine learning",
@@ -6227,7 +5958,7 @@
       "title": "CUDA Full Stack & AI Test Dev Intern - 2027",
       "location": "China, Shanghai",
       "season": "2027 \u00b7 season unspecified",
-      "age": "18d",
+      "age": "19d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/CUDA-Full-Stack---AI-Test-Dev-Intern---2027_JR2023666-1",
       "source": "FAANG direct-career APIs",
       "area": "Machine learning",
@@ -6248,7 +5979,7 @@
       "title": "Developer Technology Engineering Intern, AI - 2027",
       "location": "2 Locations",
       "season": "2027 \u00b7 season unspecified",
-      "age": "13d",
+      "age": "14d",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Beijing/Developer-Technology-Engineering-Intern--AI---2027_JR2024258",
       "source": "FAANG direct-career APIs",
       "area": "Machine learning",
@@ -6263,6 +5994,27 @@
         "Strong fit for a master's candidate"
       ],
       "id": 1818437387
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineering Intern, HPC and AI - 2027",
+      "location": "Taiwan, Taipei",
+      "season": "2027 \u00b7 season unspecified",
+      "age": "8d",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Developer-Technology-Engineering-Intern--HPC-and-AI---2027_JR2024509",
+      "source": "FAANG direct-career APIs",
+      "area": "Machine learning",
+      "keywords": [
+        "AI",
+        "Python",
+        "ML"
+      ],
+      "fitScore": 82,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Strong fit for a master's candidate"
+      ],
+      "id": 242322399
     },
     {
       "company": "Omya",
@@ -6618,6 +6370,46 @@
         "Strong fit for a master's candidate"
       ],
       "id": 1022490233
+    },
+    {
+      "company": "\ud83d\udd25 AMD",
+      "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Machine learning",
+      "keywords": [
+        "Python",
+        "ML"
+      ],
+      "fitScore": 82,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Strong fit for a master's candidate"
+      ],
+      "id": 1923815567
+    },
+    {
+      "company": "\ud83d\udd25 AMD",
+      "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
+      "location": "Markham, ON, Canada",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Machine learning",
+      "keywords": [
+        "Python",
+        "ML"
+      ],
+      "fitScore": 82,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Strong fit for a master's candidate"
+      ],
+      "id": 1923815567
     },
     {
       "company": "\ud83d\udd25 Adobe",
@@ -7568,7 +7360,7 @@
       "title": "Machine Learning Engineer Intern \ud83c\udf93",
       "location": "Seattle, WA",
       "season": "Summer 2027",
-      "age": "19d",
+      "age": "20d",
       "url": "https://lifeattiktok.com/search/7675847556668295429?utm_source=Simplify&ref=Simplify",
       "source": "Simplify + Pitt CSC",
       "area": "Machine learning",
@@ -8062,7 +7854,7 @@
       "title": "Software Engineer, Intern (Summer 2027) ",
       "location": "Chicago",
       "season": "Summer 2027",
-      "age": "103d",
+      "age": "104d",
       "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -8872,7 +8664,7 @@
       "title": "2026-2027 Information Technology - Software Engineer - Intern",
       "location": "Houston, Texas, United States of America",
       "season": "2027 \u00b7 season unspecified",
-      "age": "41d",
+      "age": "42d",
       "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -8967,7 +8759,7 @@
       "title": "Quantitative Developer Internship - 2027",
       "location": "Chicago, Illinois, United States",
       "season": "2027 \u00b7 season unspecified",
-      "age": "42d",
+      "age": "43d",
       "url": "https://www.dltrading.io/careers?gh_jid=7814660003",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -9254,6 +9046,66 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 170820006
+    },
+    {
+      "company": "Edison International",
+      "title": "Data Analytics Intern - Data Science - Applied Math",
+      "location": "Pomona, CA, Rosemead, CA",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 4198796820
+    },
+    {
+      "company": "Edison International",
+      "title": "Data Analytics Intern - Data Science/Applied Math",
+      "location": "Pomona, CA, Rosemead, CA",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 2941129601
+    },
+    {
+      "company": "Edison International",
+      "title": "Software/Data Engineering Intern",
+      "location": "Chino, CA",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 887682938
     },
     {
       "company": "Emerson Electric",
@@ -10051,7 +9903,7 @@
       "title": "2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)",
       "location": "Memphis, TN, United States",
       "season": "Summer 2027",
-      "age": "22d",
+      "age": "23d",
       "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/218257",
       "source": "Dreamwork direct-career index",
       "area": "Generic SDE",
@@ -10121,6 +9973,143 @@
         "Three years of engineering experience can differentiate you"
       ],
       "id": 1000276752
+    },
+    {
+      "company": "Hudson River Trading",
+      "title": "Software Engineer Intern - C++ or Python",
+      "location": "Austin, TX, Chicago, IL, NYC",
+      "season": "Summer 2027",
+      "age": "1mo",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&utm_source=Simplify&ref=Simplify",
+      "source": "FAANG direct-career APIs + Pitt CSC + Simplify + SpeedyApply SWE",
+      "area": "Generic SDE",
+      "keywords": [
+        "Python",
+        "C++",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 2321113633
+    },
+    {
+      "company": "Imc",
+      "title": "Software Engineer Intern - Summer 2027",
+      "location": "Chicago, United States",
+      "season": "Summer 2027",
+      "age": "69d",
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823924101",
+      "source": "Dreamwork direct-career index",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 90511204
+    },
+    {
+      "company": "InfiniteQuant",
+      "title": "Quantitative Developer Intern - Summer 2027",
+      "location": "Dubai - United Arab Emirates, NYC",
+      "season": "Summer 2027",
+      "age": "26d",
+      "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 4106736929
+    },
+    {
+      "company": "JP Morgan Chase",
+      "title": "Software Engineer Intern - Immersion Program",
+      "location": "Glasgow, UK",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774813?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 2565873372
+    },
+    {
+      "company": "JP Morgan Chase",
+      "title": "Software Engineer Intern - Summer Internship",
+      "location": "London, UK, Glasgow, UK",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 3678491572
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Data Science Co-op - Summer 2027",
+      "location": "Cincinnati, OH",
+      "season": "Summer 2027",
+      "age": "8d",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 4095545111
+    },
+    {
+      "company": "Johnson & Johnson",
+      "title": "Quality Data Science Co-op - MD Q&C Digital Solutions",
+      "location": "Cincinnati, OH",
+      "season": "Summer 2027",
+      "age": "9d",
+      "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-op--Spring-2027_R-095792?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify + Pitt CSC",
+      "area": "Generic SDE",
+      "keywords": [
+        "Data",
+        "Software engineering"
+      ],
+      "fitScore": 78,
+      "fitReasons": [
+        "Matches a graduate-level software internship search",
+        "Three years of engineering experience can differentiate you"
+      ],
+      "id": 3752702231
     }
   ]
 }
